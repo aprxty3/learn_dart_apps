@@ -1,4 +1,4 @@
-import 'package:create_dart_library/hello.dart' as belajar;
+import 'package:belajar_dart_library/hello.dart' as belajar;
 
 void main() {
   print(belajar.sayHello('aajiii'));
