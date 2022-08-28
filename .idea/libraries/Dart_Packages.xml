@@ -58,6 +58,13 @@
             </list>
           </value>
         </entry>
+        <entry key="create_dart_library">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/git/create_dart_library-f0190ed3c6b9d1f621196535e6bd8d19f11ce235//lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="crypto">
           <value>
             <list>
@@ -327,6 +334,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/create_dart_library-f0190ed3c6b9d1f621196535e6bd8d19f11ce235//lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-46.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-4.6.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/args-2.3.1/lib" />

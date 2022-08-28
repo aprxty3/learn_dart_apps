@@ -57,6 +57,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.0"
+  create_dart_library:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "1.0.0"
+      resolved-ref: f0190ed3c6b9d1f621196535e6bd8d19f11ce235
+      url: "https://github.com/aprxty3/create_dart_library.git"
+    source: git
+    version: "1.0.0"
   crypto:
     dependency: transitive
     description:
