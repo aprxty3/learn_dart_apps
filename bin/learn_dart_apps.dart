@@ -1,5 +1,9 @@
-import 'package:learn_dart_apps/learn_dart_apps.dart' as learn_dart_apps;
+import 'package:create_dart_library/hello.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${learn_dart_apps.calculate()}!');
+void main() {
+  print(sayHello('aajiii'));
+
+  var cate = Category();
+  var prod = Product();
+  var cust = Customer();
 }
